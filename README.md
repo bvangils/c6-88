@@ -23,11 +23,11 @@ De hiërarchie op het hoogste niveau is in onderstaande lijst vastgelegd:
 ## Taalsets
 Er zijn nu 6 taalsets gedefinieerd, waarin C6\_88-woorden gekoppeld worden aan de Nederlandse taal.
 Ieder van de sets heeft een doel:
-* [C1\_ set](C1_.md)  Basisalfabet, -interpunctie en -symbolen om teksten te kunnen schrijven.
-* [C2\_ set](C2_.md) Cijfers om te kunnen tellen en ordenen in het tientallig stelsel.
+* [C1\_ set](C1_.md) Basisalfabet, -interpunctie en -symbolen om teksten te kunnen schrijven.
+* [C2\_ set](C2_.md) Cijfers om te tellen en ordenen in het tientallig stelsel.
 * [C3\_ set](C3_.md) Basisconcepten om te kunnen communiceren over de echte wereld.
 * [C4\_ set](C4_.md) Eigennamen voor levende entiteiten.
-* [C5\_ set](C5_.md) Codes om programmering van de 6502 8 bit-microprocessor over te dragen.
+* [C5\_ set](C5_.md) Codes om instructies van een microprocessor of -controller over te dragen.
 * [C6\_ set](C6_.md) Eigennamen voor niet-levende entiteiten, zoals plaatsen, tijden en voorwerpen.
 
 ## Status
