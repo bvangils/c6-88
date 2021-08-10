@@ -27,7 +27,7 @@ Ieder van de sets heeft een doel:
 * [C2\_ set](C2_.md) Cijfers om te tellen en ordenen in het tientallig stelsel.
 * [C3\_ set](C3_.md) Basisconcepten om te kunnen communiceren over de echte wereld.
 * [C4\_ set](C4_.md) Eigennamen voor levende entiteiten.
-* [C5\_ set](C5_.md) Codes om instructies van een microprocessor of -controller over te dragen.
+* [C5\_ set](C5_.md) Codes om programmering van een microprocessor of -controller over te dragen.
 * [C6\_ set](C6_.md) Eigennamen voor niet-levende entiteiten, zoals plaatsen, tijden en voorwerpen.
 
 ## Status
