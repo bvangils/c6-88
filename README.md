@@ -1,24 +1,23 @@
 # C6\_88 teken- en taalset.
-Dit is het hoofddocument van de C6\_88 teken- en taalset, oorspronkelijk ontworpen door C4\_88.
-Andere documenten moeten allen in de context van dit document geïnterpreteerd worden.
+Dit is het hoofddocument, C6\_30, van de C6\_88 teken- en taalset, oorspronkelijk ontworpen door C4\_88 in de Nederlandse taal.
+Al het andere moet in de context van dit document geïnterpreteerd worden.
 
 ## Schrijfwijze C6\_88
 We schrijven in deze documentatie in het Nederlands, opgemaakt met [Github Flavored Markdown of GFM](https://github.github.com/gfm/).
 We schrijven C6\_88 in plaats van het exact juiste C6␣88, omdat dit sneller gaat en voorkomt dat GFM de tekst cursief weergeeft.
 In pad- en bestandsnamen gebruiken we C6_88 (verschil is te zien in de code).
 
-## Documenthiërarchie
-Documenten bestaan in een stricte hiërarchie van elkaar.
-De hiërarchie op het hoogste niveau is in onderstaande lijst vastgelegd:
-1. Dit document [README.md](README.md) is het hoofddocument.
-    Het bepaalt als top van de hiërarchie de hoofdlijnen voor alle andere documenten.
-2. Het document [REGELS.md](REGELS.md) bevat de regels voor het gebruik en de ontwikkeling van C6\_88.
-3. Het document [LICENCE](LICENCE) bevat de licentie rondom auteursrechten en aanverwante zaken van C6\_88.
-    Deze moet nog omgezet worden in de officiële Nederlandse versie.
-4. Het document [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md) bevat de richtlijnen voor het handelen van deelnemers aan de gemeenschap die zich verbindt aan C6\_88.
-    Dit algemene sjabloon is nog niet vertaald naar het Nederlands en specifiek gemaakt voor C6\_88 en daarom nog niet geldig.
-5. Het document [CONTRIBUTING.md](CONTRIBUTING.md) bevat de richtlijnen voor deelnemers die willen bijdragen aan de ontwikkeling van C6\_88.
-6. De wiki op [https://github.com/bvangils/C6\_88/wiki](https://github.com/bvangils/C6_88/wiki) bevat officieuze informatie over C6\_88.
+## Hiërarchie
+Documenten moeten bestaan in een stricte hiërarchie.
+De hiërarchie op het hoogste documentatieniveau is in onderstaande lijst vastgelegd:
+1. [C6\_30](README.md) is de top van de hiërarchie van C6\_88 en schept daarmee de context en bepaalt de hoofdlijnen van al het andere.
+2. [C6\_31](REGELS.md) bevat de regels voor het gebruik en de ontwikkeling van C6\_88.
+3. [C6\_32](LICENCE) bevat de licentie rondom de auteursrechten en aanverwante zaken van C6\_88.
+4. [C6\_33](CODE_OF_CONDUCT.md) bevat de gedragscode voor de gemeenschap die deelneemt aan C6\_88.
+5. [C6\_34](CONTRIBUTING.md) bevat de richtlijnen voor deelnemers die willen bijdragen aan de ontwikkeling van C6\_88.
+6. [C6\_35](https://github.com/bvangils/C6_88/wiki) bevat officieuze informatie over of in relatie tot C6\_88.
+
+Ontwikkelde code die geen documentatie is, dient te voldoen aan de documentatie.
 
 ## Taalsets
 Er zijn nu 6 taalsets gedefinieerd, waarin C6\_88-woorden gekoppeld worden aan de Nederlandse taal.
