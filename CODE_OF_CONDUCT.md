@@ -1,6 +1,6 @@
 # Gedragscode behorende bij deelname aan C6\_88
 
-Deze gedragscode, met de naam C6\_33 beschrijft wat wij beloven en verwachten in onze gemeenschap.
+Deze gedragscode (C6\_33) beschrijft wat wij beloven en verwachten in onze gemeenschap.
 
 ## Onze belofte
 
@@ -15,11 +15,11 @@ Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving in onze gemeensc
 * Empathie, vriendelijkheid en duidelijkheid tonen naar andere mensen
 * Respectvol zijn en leren van bij verschillende meningen, perspectieven en ervaringen
 * Feedback geven en ontvangen op de manier en het niveau dat jij en de ander aankunnen
-* Leren van de gevolgen van fouten en bijdragen aan het herstel ervan
+* Leren van fouten en bijdragen aan het herstel ervan
 * Een balans met de gemeenschap zoeken tussen eigenbelang en collectief belang
 
 Voorbeelden van onacceptabel gedrag omvatten, maar zijn niet beperkt tot:
-* Gebruik van taal of beelden die lustopwekkend werken op plaatsen en tijden waar de gemeenschap lustopwekking ongepast vindt
+* Gebruik van taal of beelden die fysiek lustopwekkend (kunnen) werken op plaatsen en tijden waar de gemeenschap lustopwekking ongepast vindt
 * Irritante of beledigende opmerkingen die niet op korte termijn bijdragen aan de positieve ontwikkeling van de gemeenschap
 * Publieke of persoonlijke pesterijen waarvan aannemelijk is dat de gemeenschap en/of de ontvanger dit niet waardeert
 * Persoonlijke informatie over anderen publiceren, zoals fysiek of emailadres, favoriete kleur of boek, zonder expliciete toestemming

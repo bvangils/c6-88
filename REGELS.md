@@ -5,9 +5,9 @@
 Een regel begint met de kop "Regel", gevolgd door een geheel getal, een dubbele punt en een titel.
 
 De regels in dit document zijn opgebouwd volgens een stricte hiërarchie.
-De regel met het lagere nummer heeft voorrang op de regel met een hoger nummer.
+De regel met het lagere nummer (de "lagere regel") heeft voorrang op de regel met een hoger nummer (de "hogere regel").
 
-Regels met een hoger nummer moeten regels met een lager nummer verfijnen of iets regelen dat niet in strijd of onbesluitbaar is volgens lagere regels.
+Hogere regels moeten lagere regels verfijnen of iets regelen dat niet in strijd of onbesluitbaar is volgens lagere regels.
 
 Als gevolg van deze hiërarchie moeten uitzonderingen op een regel onderdeel van zijn de regel zelf, zij kunnen niet in hogere regels worden toegevoegd.
 
@@ -17,4 +17,4 @@ Voor het vertalen van Nederlands of andere talen naar C6\_88 mogen geautomatisee
 
 Voor het vertalen van C6\_88 naar een set transmissiesymbolen en andersom mogen geautomatiseerde hulpmiddelen worden gemaakt.
 
-Voor het vertalen van C6\_88 naar Nederlands of andere talen mogen geen geautomatiseerde hulpmiddelen worden gemaakt of gebruikt.
+Voor het vertalen van C6\_88 naar het Nederlands of andere menselijke talen mogen geen geautomatiseerde hulpmiddelen worden gemaakt of gebruikt.
