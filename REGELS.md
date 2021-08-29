@@ -1,4 +1,4 @@
-# Regels voor gebruik en ontwikkeling C6\_88
+# Regels voor gebruik en ontwikkeling c6-88
 
 ## Regel 1: Regels en hun hiërarchie
 
@@ -11,10 +11,10 @@ Hogere regels moeten lagere regels verfijnen of iets regelen dat niet in strijd 
 
 Als gevolg van deze hiërarchie moeten uitzonderingen op een regel onderdeel van zijn de regel zelf, zij kunnen niet in hogere regels worden toegevoegd.
 
-## Regel 2: Vertalen van en naar C6\_88
+## Regel 2: Vertalen van en naar c6-88
 
-Voor het vertalen van Nederlands of andere talen naar C6\_88 mogen geautomatiseerde hulpmiddelen worden gemaakt.
+Voor het vertalen van Nederlands of andere talen naar c6-88 mogen geautomatiseerde hulpmiddelen worden gemaakt.
 
-Voor het vertalen van C6\_88 naar een set transmissiesymbolen en andersom mogen geautomatiseerde hulpmiddelen worden gemaakt.
+Voor het vertalen van c6-88 naar een set transmissiesymbolen en andersom mogen geautomatiseerde hulpmiddelen worden gemaakt.
 
-Voor het vertalen van C6\_88 naar het Nederlands of andere menselijke talen mogen geen geautomatiseerde hulpmiddelen worden gemaakt of gebruikt.
+Voor het vertalen van c6-88 naar het Nederlands of andere menselijke talen mogen geen geautomatiseerde hulpmiddelen worden gemaakt of gebruikt.

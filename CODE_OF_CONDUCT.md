@@ -1,6 +1,6 @@
-# Gedragscode behorende bij deelname aan C6\_88
+# Gedragscode behorende bij deelname aan c6-88
 
-Deze gedragscode (C6\_33) beschrijft wat wij beloven en verwachten in onze gemeenschap.
+Deze gedragscode (c6-33) beschrijft wat wij beloven en verwachten in onze gemeenschap.
 
 ## Onze belofte
 
@@ -29,19 +29,19 @@ Voorbeelden van onacceptabel gedrag omvatten, maar zijn niet beperkt tot:
 
 Leiders in deze gemeenschap zijn verantwoordelijk voor het verhelderen en handhaven van onze standaarden. Zij nemen per definitie passende en eerlijke correctieve actie naar aanleiding van gedrag dat zij ongepast, te bedreigend of schadelijk vinden.
 
-Leiders hebben het recht en de verantwoordelijkheid om commentaar, 'commits', code, wiki aanpassingen, 'issues', en andere bijdragen te verwijderen, te veranderen of af te wijzen als ze in strijd zijn met C6\_33. Ze zullen de reden voor deze censurering alleen mededelen aan de betreffende persoon of personen. Deze personen mogen zelf kiezen of ze deze toelichting delen met de rest van de gemeenschap.
+Leiders hebben het recht en de verantwoordelijkheid om commentaar, 'commits', code, wiki aanpassingen, 'issues', en andere bijdragen te verwijderen, te veranderen of af te wijzen als ze in strijd zijn met c6-33. Ze zullen de reden voor deze censurering alleen mededelen aan de betreffende persoon of personen. Deze personen mogen zelf kiezen of ze deze toelichting delen met de rest van de gemeenschap.
 
 ## Kadering
 
-C6\_33 is van toepassing op alle gemeenschapsruimten en geldt ook als een individu onze gemeenschap op andere plekken officieel vertegenwoordigt. Dit is in ieder geval aan de orde wanneer iemand gebruikt maakt van een officieel emailadres van ons, boodschappen deelt via een officiele sociale media account van ons of door ons als aangewezen afgevaardigde deelneemt aan een virtueel of reëel evenement.
+c6-33 is van toepassing op alle gemeenschapsruimten en geldt ook als een individu onze gemeenschap op andere plekken officieel vertegenwoordigt. Dit is in ieder geval aan de orde wanneer iemand gebruikt maakt van een officieel emailadres van ons, boodschappen deelt via een officiele sociale media account van ons of door ons als aangewezen afgevaardigde deelneemt aan een virtueel of reëel evenement.
 
 ## Handhaving
 
-Voorvallen van ongepast, te bedreigend of anderszins onacceptabel kunnen worden gerapporteerd aan de leiders via het ['Issues'-tabblad](https://github.com/bvangils/C6_88/issues). Alle klachten worden bekeken en onderzocht in lijn met C6\_33. Gemeenschapsleiders zijn verplicht de veiligheid van de indiener, de beschuldigde en zichzelf in acht te nemen bij de behandeling van een incident.
+Voorvallen van ongepast, te bedreigend of anderszins onacceptabel kunnen worden gerapporteerd aan de leiders via het ['Issues'-tabblad](https://github.com/bvangils/c6-88/issues). Alle klachten worden bekeken en onderzocht in lijn met c6-33. Gemeenschapsleiders zijn verplicht de veiligheid van de indiener, de beschuldigde en zichzelf in acht te nemen bij de behandeling van een incident.
 
 ## Handhavingsrichtlijnen
 
-De leiders volgen de volgende richtlijnen bij het bepalen van de gevolgen van elke handeling of communicatie-uiting waarvan zij vinden dat deze in strijd is met C6\_33:
+De leiders volgen de volgende richtlijnen bij het bepalen van de gevolgen van elke handeling of communicatie-uiting waarvan zij vinden dat deze in strijd is met c6-33:
 
 ### 1. Herstel
 
@@ -53,20 +53,20 @@ De leiders volgen de volgende richtlijnen bij het bepalen van de gevolgen van el
 
 **Situatie**: Een overtreding door een enkele of meerdere handeling(en).
 
-**Gevolg**: Een waarschuwing met vastgestelde gevolgen bij herhaling: Geen communicatie voor een vastgestelde duur met de betrokken leden, inclusief ongevraagd contact met degene die C6\_33 handhaaft. Dit omvat het vermijden van interactie in gemeenschapsruimten en via externe kanalen. Dit communicatieverbod overtreden kan leiden tot een tijdelijke of permanente verbanning.
+**Gevolg**: Een waarschuwing met vastgestelde gevolgen bij herhaling: Geen communicatie voor een vastgestelde duur met de betrokken leden, inclusief ongevraagd contact met degene die c6-33 handhaaft. Dit omvat het vermijden van interactie in gemeenschapsruimten en via externe kanalen. Dit communicatieverbod overtreden kan leiden tot een tijdelijke of permanente verbanning.
 
 ### 3. Tijdelijke verbanning
 
 **Situatie**: Een grove overtreding, waaronder terugkerend ongepast gedrag.
 
-**Gevolg**: Een verbod van vastgestelde duur op handelen binnen en communicatie met de hele gemeenschap voor een vastgestelde duur. Geen publieke of persoonlijke communicatie met de betrokken leden, inclusief ongevraagd contact met degene die C6\_33 handhaaft. Dit verbod overtreden kan leiden tot een permanente verbanning.
+**Gevolg**: Een verbod van vastgestelde duur op handelen binnen en communicatie met de hele gemeenschap voor een vastgestelde duur. Geen publieke of persoonlijke communicatie met de betrokken leden, inclusief ongevraagd contact met degene die c6-33 handhaaft. Dit verbod overtreden kan leiden tot een permanente verbanning.
 
 ### 4. Permanente verbanning
 
-**Situatie**: Minimaal 3 maal een grove overtreding van C6\_33 of overtreding van het verbod behorende bij een tijdelijke verbanning.
+**Situatie**: Minimaal 3 maal een grove overtreding van c6-33 of overtreding van het verbod behorende bij een tijdelijke verbanning.
 
 **Gevolg**: Een permanent verbod op elke handeling binnen en communicatie met de gemeenschap. Vastlegging van de naam van de overtreder, overtredingen en behandelende handhaver(s) in het document [VERBANNINGEN.md](VERBANNINGEN.md)
 
 ## Erkenning
 
-Deze gedragscode, C6\_33, is losjes gebaseerd op het [Contributor Covenant](https://www.contributor-covenant.org) versie 2.0. Deze is beschikbaar (inclusief vertalingen) via https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Deze gedragscode, c6-33, is losjes gebaseerd op het [Contributor Covenant](https://www.contributor-covenant.org) versie 2.0. Deze is beschikbaar (inclusief vertalingen) via https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
