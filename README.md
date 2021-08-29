@@ -1,6 +1,6 @@
 # c6-88 teken- en taalset.
 Dit is het hoofddocument c6-30 van de c6-88 teken- en taalset.
-Deze is oorspronkelijk ontworpen door C4\_88 in de Nederlandse taal.
+Deze is oorspronkelijk ontworpen door c4-88 in de Nederlandse taal.
 
 ## Schrijfwijze
 c6-88 wordt beschreven in het Nederlands en opgemaakt met [Github Flavored Markdown (GFM)](https://github.github.com/gfm/).
@@ -23,9 +23,9 @@ Ontwikkelde code die geen documentatie is, dient te voldoen aan de documentatie.
 Met het woord 'tekens' bedoelen we exclusief de 12 tekens waarmee in c6-88 gecommuniceerd wordt.
 De elementen van de taal, zoals 'code', 'symbolen', 'letters', 'cijfers' en anderen worden gevormd door een combinatie van tekens.
 Om in het Nederlands en ASCII-script te kunnen verwijzen naar de tekens, hebben alle tekens een naam gekregen.
-Het onderstaande overzicht bevat op de bovenste rij de c6-88 tekens en op de onderste rij de verwijzende naam in ASCII Nederlands.
+Het onderstaande overzicht bevat op de bovenste rij de c6-88 tekens en op de onderste rij de verwijzende naam in ASCII.
 
-![De 12 c6-88 basistekens](tekens/c6-88-namen.png)
+![De 12 c6-88 basistekens](https://raw.githubusercontent.com/bvangils/c6-88/main/tekens/c6-88-namen.png)
 
 ## Taalsets
 Losse tekens betekenen niets, dat doen zij pas in de context van een taalset, die aan het begin van elk bericht benoemd wordt.
