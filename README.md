@@ -4,9 +4,8 @@ c6-88 is oorspronkelijk ontworpen door c4-88 in het Nederlands.
 De thuisbasis van c6-88 op internet is <https://www.c6-88.org>.
 
 ## Missie
-Tekens en talen beïnvloeden hoe een hoe leden in de gemeenschap (kunnen) communiceren, onthouden en denken.
-c6-88 biedt de gemeenschap een set tekens en talen.
-De missie is om hiermee voor de gemeenschap nieuwe mogelijkheden te creëren voor het onderhouden en vernieuwen van de gemeenschap zelf.
+Tekens en talen beïnvloeden hoe leden in de gemeenschap (kunnen) communiceren, onthouden en denken. 
+De missie is om de gemeenschap met c6-88 nieuwe mogelijkheden te bieden voor het onderhouden en vernieuwen van de gemeenschap zelf.
 
 ## Schrijfwijze
 c6-88 wordt beschreven in Nederlands, gebaseerd op het Latijnse schrift en Arabische cijfers.
