@@ -1,6 +1,6 @@
-# Gedragscode behorende bij deelname aan c6-88
+# Gedragscode behorende bij deelname aan `c6-88`
 
-Deze gedragscode (c6-33) beschrijft wat wij beloven en verwachten in onze gemeenschap.
+Deze gedragscode `c6-10` beschrijft wat wij beloven en verwachten in onze gemeenschap.
 
 ## Onze belofte
 
@@ -26,7 +26,7 @@ Voorbeelden van onacceptabel gedrag omvatten, maar zijn niet beperkt tot:
 * Het uitbesteden van jouw probleem met iemand anders in de gemeenschap aan een derde partij, of het aannemen van zo'n probleem
 
 ## Handhaving
-Conform [c6-31](REGELS.md) maakt beschrijving van de handhaving geen onderdeel uit van de documentatie.
+Zoals gesteld in de kaders van [`c6-8`](REGELS.md) maakt beschrijving van de handhaving geen onderdeel uit van dit project.
 
 ## Erkenning
 
