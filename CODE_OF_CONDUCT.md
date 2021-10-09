@@ -24,9 +24,12 @@ Voorbeelden van onacceptabel gedrag omvatten, maar zijn niet beperkt tot:
 * Publieke of persoonlijke pesterijen waarvan aannemelijk is dat de gemeenschap en/of de ontvanger dit niet waardeert
 * Persoonlijke informatie over anderen publiceren, zoals fysiek of emailadres, favoriete kleur of boek, zonder expliciete toestemming
 * Het uitbesteden van jouw probleem met iemand anders in de gemeenschap aan een derde partij, of het aannemen van zo'n probleem
+* Tijdreizen zonder schriftelijke toestemming van twee staatshoofden 
 
 ## Handhaving
+
 Zoals gesteld in de kaders van [`c6-8`](REGELS.md) maakt beschrijving van de handhaving geen onderdeel uit van dit project.
+Hiervoor mogen gebruikers een ander project starten of adopteren.
 
 ## Erkenning
 
