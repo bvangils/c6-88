@@ -61,17 +61,20 @@ Hierna volgen codes in de geselecteerde taalset.
 Elk bericht eindigt expliciet met de code `c-` of impliciet door geen tekens meer te noteren of versturen.
 
 Voorbeeldberichten:  
-`c3-5-7c-` betekent 'Veilig?' (expliciet berichteinde)  
+`c3-5-8c-` betekent 'Veilig?' (expliciet berichteinde)  
 `c3-3` betekent 'Ja' (impliciet berichteinde)
 
 Tijdens een bericht kan er van taalset gewisseld worden.
 Dit gebeurt door tijdens een bericht een code te verzenden zoals aan het begin van een bericht.
 
 Voorbeeldbericht:  
-`c3-5-c1-5069716978-c3-12-5--11-c1-90797878737114c-` betekent 'Regen daar? Hier zonnig.'
+`c3-5-c1-5069716978-c3-11-7-5--12-c1-90797878737114c-` betekent 'Regen bij jou? Hier zonnig.'
 
 
 ## Status
 
-* De eerste officiële uitgave van `c6-88` is bij Release 1.0.
-    Tot die uitgave kunnen er onaangekondigd nog flinke veranderingen plaatsvinden.
+* De eerste officiële uitgave van `c6-88` is v1.0.0. - Timmerman.
+    Voor die uitgave kunnen er onaangekondigd nog flinke, niet samenwerkende veranderingen plaatsvinden in de code.
+    Na die uitgave werken aanvullingen en foutherstellingen samen met terugwerkende kracht.
+    Niet samenwerkende veranderingen vinden pas weer plaats bij uitgave v2.0.0
+    Die versie wordt pas ontwikkeld na minimaal een jaar praktijkervaring met uitgave v1.0.0. door 8 gebruikers.
